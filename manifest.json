@@ -1,0 +1,22 @@
+{
+  "name": "StreetWearX",
+  "short_name": "StreetWearX",
+  "description": "Gestor de productos urbanos StreetWearX con instalación PWA.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0215bb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "LogoStreetWearX.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "LogoStreetWearX.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
